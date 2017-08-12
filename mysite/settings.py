@@ -25,7 +25,7 @@ SECRET_KEY = 's=c7&rvsv-kc&4%@z_o+n)pgu^y*$+l=bts&ihb+@5w%-ox3e@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "<desiquiche>.pythonanywhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "desiquiche.pythonanywhere.com"]
 
 
 # Application definition
